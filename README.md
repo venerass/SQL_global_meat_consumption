@@ -1,7 +1,7 @@
 # Análise do consumo global de carne de 2000 a 2017 usando SQL
 
 #### Dataset da Organisation for Economic Co-operation and Development (OECD)
-https://data.oecd.org/agroutput/meat-consumption.htm
+Baixado no Kaggle: https://www.kaggle.com/vagifa/meatconsumption
 
 #### Queries (tabelas contidas em "output_csv_files"):
 
